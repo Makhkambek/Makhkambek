@@ -12,7 +12,7 @@
 ### Languages
 
 
-![swift](https://miro.medium.com/max/1400/1*ND2d6CvH-Cz0dp5I_tYalQ.webp)
+![swift](https://developer.apple.com/swift/images/swift-og.png)
 ![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw3qilBd8E97tNFWJpasRUHi&ust=1671724930356000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjQ6-aKi_wCFQAAAAAdAAAAABAE)
 
 ### Tools for the job 
