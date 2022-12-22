@@ -13,12 +13,12 @@
 
 
 ![swift](https://developer.apple.com/swift/images/swift-og.png)
-![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw3qilBd8E97tNFWJpasRUHi&ust=1671724930356000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjQ6-aKi_wCFQAAAAAdAAAAABAE)
+![C++](https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648)
 
 ### Tools for the job 
 
-![Xcode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FXcode&psig=AOvVaw1v7cz2wQC_N_C4W_Jb1-Vr&ust=1671725279209000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj6qI2Mi_wCFQAAAAAdAAAAABAE)
-![VScode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenewstack.io%2Fthis-week-in-programming-visual-studio-code-arrives-on-the-web%2F&psig=AOvVaw3KHYzSr0nDRUaCHPKytWkd&ust=1671725337413000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDR-aiMi_wCFQAAAAAdAAAAABAE)
+![Xcode](https://developer.apple.com/news/images/og/xcode-12-og-twitter.jpg)
+![VScode](https://cdn.thenewstack.io/media/2021/10/4f0ac3e0-visual_studio_code.png)
 
 ## 📈 Stats
 
