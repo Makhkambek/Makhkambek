@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Teshabayev Makhkambek
+🎓 I study at Astrum
 
 👨‍💻 student of Astrum IT Academy and IT Park 
 
@@ -11,13 +11,14 @@
 
 ### Languages
 
-[swift] <img src="swift-og.png" width="100px" height="100px">
 
+![swift](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fswift_5968371&psig=AOvVaw2zrh-ORN68P-hEDMLhkbct&ust=1671724365779000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjd4dmIi_wCFQAAAAAdAAAAABAJ) 
+![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw3qilBd8E97tNFWJpasRUHi&ust=1671724930356000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjQ6-aKi_wCFQAAAAAdAAAAABAE)
 
 ### Tools for the job 
 
-![Xcode](https://developer.apple.com/news/images/og/xcode-12-og-twitter.jpg)
-![VScode](https://cdn.thenewstack.io/media/2021/10/4f0ac3e0-visual_studio_code.png)
+![Xcode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FXcode&psig=AOvVaw1v7cz2wQC_N_C4W_Jb1-Vr&ust=1671725279209000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj6qI2Mi_wCFQAAAAAdAAAAABAE)
+![VScode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenewstack.io%2Fthis-week-in-programming-visual-studio-code-arrives-on-the-web%2F&psig=AOvVaw3KHYzSr0nDRUaCHPKytWkd&ust=1671725337413000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDR-aiMi_wCFQAAAAAdAAAAABAE)
 
 ## 📈 Stats
 
@@ -31,3 +32,4 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Makhkambek)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](okeydokeykokki@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teshabayevv/)
+
