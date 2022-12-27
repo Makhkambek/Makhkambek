@@ -13,7 +13,7 @@
 
 
 ![swift]
- <img src="https://developer.apple.com/swift/images/swift-og.png" width="150px" height="80px">
+ <img src="https://developer.apple.com/swift/images/swift-og.png" width="90px" height="150px">
 ![C++](https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648)
 
 ### Tools for the job 
