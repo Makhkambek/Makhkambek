@@ -11,12 +11,8 @@
 
 ### Languages
 
+[swift] <img src="swift-og.png" width="100px" height="100px">
 
-[swift]
- <img src="https://developer.apple.com/swift/images/swift-og.png" width="150px" height="170px">
- 
-[C++]
-<img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="150px" height="150px">
 
 ### Tools for the job 
 
