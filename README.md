@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I study at Astrum
+🎓 I study at IT Park
 
 👨‍💻 student of Astrum IT Academy and IT Park 
 
