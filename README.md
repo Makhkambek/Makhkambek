@@ -4,7 +4,7 @@
 
 🎓 I study at IT Park
 
-👨‍💻 student of Astrum IT Academy and IT Park 
+👨‍💻 student of IT Park 
 
 🏀 In my free time, I work out in the gym and listen to music.
 
