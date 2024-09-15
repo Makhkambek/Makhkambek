@@ -2,8 +2,6 @@
 
 ## 🚀 About Me
 
-🎓 I study at IT Park
-
 👨‍💻 student 
 
 🏀 In my free time, I work out in the gym and listen to music.
