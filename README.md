@@ -59,13 +59,9 @@
 
 ---
 
-## 🐍 Активность на GitHub
+### 🐍 Моя активность
 
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg)
-
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg)
 
 ---
 
