@@ -1,32 +1,32 @@
 <div align="center">
 
-# Привет, я Махкамбек! 🚀
+# Hi there, I'm Makhkambek! 👋
 
-### Student, Creator of Cool Things, и Повелитель Кода (иногда)
+### Student, Creator of Cool Things, and Code Wizard (sometimes)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=%22%D0%9A%D0%BE%D0%B4+%E2%80%94+%D1%8D%D1%82%D0%BE+%D1%85%D0%BE%D0%B1%D0%B1%D0%B8%2C+%D0%B0+%D1%87%D0%B8%D0%BB%D0%BB+%E2%80%94+%D1%8D%D1%82%D0%BE+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Code+is+a+hobby;Chill+is+an+art" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-**Интерпренер, который превращает идеи в масштабируемые продукты.**  
-Стремлюсь к совершенству и ценю спокойствие в процессе.
+**Entrepreneur who turns ideas into scalable products.**  
+I strive for excellence and value calmness in the process.
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Tech Stack
 
-### Языки программирования
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-### Инструменты разработки
+### Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -37,36 +37,21 @@
 
 ---
 
+## 🎯 What I Do
 
-## 📊 GitHub Статистика
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Makhkambek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Makhkambek&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makhkambek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
+```typescript
+const makhkambek = {
+    role: "Full Stack Developer",
+    currentFocus: ["Mobile Development", "Web Apps", "AI Integration"],
+    learning: ["SwiftUI", "Advanced TypeScript", "System Design"],
+    interests: ["Building Products", "Clean Code", "Coffee"],
+    philosophy: "Vision over Velocity"
+};
+```
 
 ---
 
-## 🐍 Моя активность
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📫 Связаться со мной
+## 📫 Get in Touch
 
 <p align="center">
   <a href="https://t.me/teshabayevv">
@@ -89,6 +74,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge&base=180)
   
-  <p>⭐️ From <a href="https://github.com/Makhkambek">Makhkambek</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/Makhkambek">Makhkambek</a></p>
 
 </div>
