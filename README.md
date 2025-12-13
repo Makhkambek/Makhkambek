@@ -15,10 +15,6 @@
 **Интерпренер, который превращает идеи в масштабируемые продукты.**  
 Стремлюсь к совершенству и ценю спокойствие в процессе.
 
-- 🔭 В данный момент — студент, пытаюсь понять, как совместить сон и дедлайны.
-- 🌱 Непрерывно изучаю: Как сделать так, чтобы мои Swift-проекты выглядели в десять раз круче.
-- ⚡ Фан-факт: Могу зачиллить в любой непонятной ситуации, но с любимым плейлистом и чашкой чая.
-
 ---
 
 ## 🛠️ Технологии и инструменты
@@ -40,22 +36,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Статистика
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Makhkambek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Makhkambek&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makhkambek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
 
 ---
 ### 🐍 Моя активность
@@ -87,6 +67,5 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge&base=180)
   
-  <p>⭐️ From <a href="https://github.com/Makhkambek">Makhkambek</a></p>
 
 </div>
