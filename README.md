@@ -37,10 +37,31 @@
 
 ---
 
----
-### 🐍 Моя активность
+## 📊 GitHub Статистика
 
-![GitHub Snake](https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg)
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Makhkambek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Makhkambek&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makhkambek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Моя активность
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -67,5 +88,6 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge&base=180)
   
+  <p>⭐️ From <a href="https://github.com/Makhkambek">Makhkambek</a></p>
 
 </div>
