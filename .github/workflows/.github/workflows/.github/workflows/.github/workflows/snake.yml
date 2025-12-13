@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Запускать каждый день в полночь (UTC)
+    - cron: "0 0 * * *"
+  # Позволяет запускать вручную через вкладку Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      # Шаг 1: Генерация SVG файла с анимацией Змейки
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          # ВАШ НИКНЕЙМ ЗДЕСЬ
+          github_user_name: Makhkambek 
+          gif_out_path: ./output/github-contribution-grid-snake.svg
+          
+      # Шаг 2: Коммит и Пуш изменений в репозиторий
+      - name: Push to GitHub
+        uses: cpina/github-push-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Обновление анимации Змейки
+          force: true
