@@ -58,7 +58,6 @@
 </div>
 
 ---
-
 ### 🐍 Моя активность
 
 ![GitHub Snake](https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake.svg)
