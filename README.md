@@ -12,6 +12,9 @@
 
 ## 👨‍💻 Обо мне
 
+**Интерпренер, который превращает идеи в масштабируемые продукты.**  
+Стремлюсь к совершенству и ценю спокойствие в процессе.
+
 - 🔭 В данный момент — студент, пытаюсь понять, как совместить сон и дедлайны.
 - 🌱 Непрерывно изучаю: Как сделать так, чтобы мои Swift-проекты выглядели в десять раз круче.
 - ⚡ Фан-факт: Могу зачиллить в любой непонятной ситуации, но с любимым плейлистом и чашкой чая.
@@ -25,11 +28,11 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ### Инструменты разработки
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
@@ -56,16 +59,6 @@
 
 ---
 
-## 🐍 Активность на GitHub
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Связаться со мной
 
 <p align="center">
@@ -81,13 +74,13 @@
 
 <div align="center">
   
-  ### 💭 Цитата дня
+  ### 💭
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  *"Великие дела совершаются не силой, а упорством и чашкой хорошего кофе."*
   
   ---
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge&base=180)
   
   <p>⭐️ From <a href="https://github.com/Makhkambek">Makhkambek</a></p>
 
