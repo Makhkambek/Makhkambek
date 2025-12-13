@@ -45,7 +45,7 @@ const makhkambek = {
     currentFocus: ["STEM Education", "Mobile Development", "Web Apps", "AI Integration"],
     learning: ["SwiftUI", "Advanced TypeScript", "System Design"],
     interests: ["Building Products", "Clean Code", "Robotics"],
-    philosophy: "Vision over Velocity"
+    philosophy: "Building things that last, not just launching fast"
 };
 ```
 
@@ -74,6 +74,5 @@ const makhkambek = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge&base=180)
   
-  <p>Made with ❤️ by <a href="https://github.com/Makhkambek">Makhkambek</a></p>
 
 </div>
