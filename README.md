@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-**Entrepreneur who turns ideas into scalable products.**  
-I strive for excellence and value calmness in the process.
+**I turn ideas into real products.**  
+Code is my tool, not my identity.
 
 ---
 
@@ -41,10 +41,10 @@ I strive for excellence and value calmness in the process.
 
 ```typescript
 const makhkambek = {
-    role: "Full Stack Developer",
-    currentFocus: ["Mobile Development", "Web Apps", "AI Integration"],
+    role: "Builder & Entrepreneur",
+    currentFocus: ["STEM Education", "Mobile Development", "Web Apps", "AI Integration"],
     learning: ["SwiftUI", "Advanced TypeScript", "System Design"],
-    interests: ["Building Products", "Clean Code", "Coffee"],
+    interests: ["Building Products", "Clean Code", "Robotics"],
     philosophy: "Vision over Velocity"
 };
 ```
