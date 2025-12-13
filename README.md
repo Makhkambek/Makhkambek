@@ -1,33 +1,94 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-## 🚀 About Me
-
-👨‍💻 student 
-
-🏀 In my free time, I work out in the gym and listen to music.
-
-
-### Languages
-
-
-![swift](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fswift_5968371&psig=AOvVaw2zrh-ORN68P-hEDMLhkbct&ust=1671724365779000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjd4dmIi_wCFQAAAAAdAAAAABAJ) 
-![C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw3qilBd8E97tNFWJpasRUHi&ust=1671724930356000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjQ6-aKi_wCFQAAAAAdAAAAABAE)
-
-### Tools for the job 
-
-![Xcode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FXcode&psig=AOvVaw1v7cz2wQC_N_C4W_Jb1-Vr&ust=1671725279209000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj6qI2Mi_wCFQAAAAAdAAAAABAE)
-![VScode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenewstack.io%2Fthis-week-in-programming-visual-studio-code-arrives-on-the-web%2F&psig=AOvVaw3KHYzSr0nDRUaCHPKytWkd&ust=1671725337413000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDR-aiMi_wCFQAAAAAdAAAAABAE)
-
-## 📈 Stats
-
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-     <br />
+
+# Привет, я Махкамбек! 🚀
+
+### Student, Creator of Cool Things, и Повелитель Кода (иногда)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=%22%D0%9A%D0%BE%D0%B4+%E2%80%94+%D1%8D%D1%82%D0%BE+%D1%85%D0%BE%D0%B1%D0%B1%D0%B8%2C+%D0%B0+%D1%87%D0%B8%D0%BB%D0%BB+%E2%80%94+%D1%8D%D1%82%D0%BE+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE.%22" alt="Typing SVG" />
+
 </div>
 
-## 🔗 Links
+---
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Makhkambek)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](teshabayevmakhkambek@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teshabayevv/)
+## 👨‍💻 Обо мне
 
+- 🔭 В данный момент — студент, пытаюсь понять, как совместить сон и дедлайны.
+- 🌱 Непрерывно изучаю: Как сделать так, чтобы мои Swift-проекты выглядели в десять раз круче.
+- ⚡ Фан-факт: Могу зачиллить в любой непонятной ситуации, но с любимым плейлистом и чашкой чая.
+
+---
+
+## 🛠️ Технологии и инструменты
+
+### Языки программирования
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+### Инструменты разработки
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Makhkambek&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Makhkambek&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makhkambek&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Активность на GitHub
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Makhkambek/Makhkambek/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📫 Связаться со мной
+
+<p align="center">
+  <a href="https://t.me/teshabayevv">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:teshabayevmakhkambek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ### 💭 Цитата дня
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+  ---
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge)
+  
+  <p>⭐️ From <a href="https://github.com/Makhkambek">Makhkambek</a></p>
+
+</div>
