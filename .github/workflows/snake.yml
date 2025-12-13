@@ -11,9 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3 # Обновлено до v3
       
-      # Генерирует SVG файл с анимацией Змейки
+      # Шаг 1: Генерирует SVG файл с анимацией Змейки
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -21,10 +21,12 @@ jobs:
           github_user_name: Makhkambek 
           gif_out_path: ./output/github-contribution-grid-snake.svg
           
-      # Коммитит и пушит сгенерированный файл обратно в репозиторий
-      - name: Push to GitHub
-        uses: cpina/github-push-action@main
+      # Шаг 2: Коммитит и Пушит изменения в репозиторий (ИСПРАВЛЕНО)
+      - name: Push new snake file to repository
+        uses: ad-m/github-push-action@master # Используем проверенный экшен
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_message: Обновление анимации Змейки
+          branch: main # Убедитесь, что ваша основная ветка называется 'main'
+          directory: output 
           force: true
+          message: Обновление анимации Змейки
