@@ -37,6 +37,19 @@
 
 ---
 
+---
+### 📈 Детализация активности
+
+<p align="center">
+    <img src="https://github-activity-graph.vercel.app/graph?username=Makhkambek&bg_color=191919&color=66ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    
+    <br/> 
+    
+    <img src="https://github-activity-graph.vercel.app/radar?username=Makhkambek&bg_color=191919&color=66ff00&point=00ff00&area=true&hide_border=true" alt="GitHub Radar Chart" />
+</p>
+
+---
+
 ## 📊 GitHub Статистика
 
 <div align="center">
