@@ -1,78 +1,37 @@
-<div align="center">
+# Makhkambek Teshabayev
 
-# Hi there, I'm Makhkambek! 👋
+**Founder & CEO, [Idrok Robotics](https://github.com/Makhkambek/Sezgi)** — a fabric glove that records human touch, the missing training data for robot hands. Tashkent, Uzbekistan.
 
-### Student, Creator of Cool Things, and Code Wizard (sometimes)
+- 🏆 **Robotics World Champion 2026** — head mentor of Team Uzbekistan, **#1 of 190+ nations** (FIRST Global Challenge)
+- 🥇 **1st place** at a FIRST robotics competition in Los Angeles, USA
+- 🇺🇿 **CEO, FIRST Uzbekistan** — raised $200K, runs national robotics competitions for 100 teams and 3,000 students
+- 🎖️ Honored by Presidential decree · Oct 2026
+- Mentor at IT Park Uzbekistan · Apple Certified mentor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Code+is+a+hobby;Chill+is+an+art" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-**I turn ideas into real products.**  
-Code is my tool, not my identity.
+I build robots, CanSats, satellites and rockets — and the software that runs them.
 
 ---
 
-## 🛠️ Tech Stack
+## What I've built
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [**Idrok Robotics**](https://github.com/Makhkambek/Sezgi) | Website for our touch-sensing data glove for robot hands | HTML, JS |
+| [**humanoid**](https://github.com/Makhkambek/humanoid) | Humanoid robot that solves equations by pressing calculator buttons with servo-driven fingers | C++, ESP32-S3 |
+| [**FGC2025-Uzbekistan**](https://github.com/Makhkambek/FGC2025-Uzbekistan) | Robot code for Team Uzbekistan at FIRST Global Challenge | Java |
+| [**AutoTurret**](https://github.com/Makhkambek/AutoTurret) | Pan/tilt turret with Limelight camera color tracking | Java |
+| [**GroundControlStation**](https://github.com/Makhkambek/GroundControlStation) | Desktop ground station that reads live telemetry over serial | Go, React |
+| [**FGCUzbekistan2026**](https://github.com/Makhkambek/FGCUzbekistan2026) | Live scoring system and judges' admin for FIRST Global Challenge matches | TypeScript, MySQL |
+| [**StartUpFest**](https://github.com/Makhkambek/StartUpFest) | Platform for the StartupFest Robotics Challenge | Next.js, TypeScript |
+| [**DroneSoccer**](https://github.com/Makhkambek/DroneSoccer) | Backend for a drone-soccer platform: courses, applications, shop, payments | Node.js, Express, Stripe |
+| [**FirstUzbekistan**](https://github.com/Makhkambek/FirstUzbekistan) | Website of FIRST Uzbekistan | Next.js |
 
 ---
 
-## 🎯 What I Do
+## Stack
 
-```typescript
-const makhkambek = {
-    role: "Builder & Entrepreneur",
-    currentFocus: ["STEM Education", "Mobile Development", "Web Apps", "AI Integration"],
-    learning: ["SwiftUI", "Advanced TypeScript", "System Design"],
-    interests: ["Building Products", "Clean Code", "Robotics"],
-    philosophy: "Building things that last, not just launching fast"
-};
-```
+**Hardware:** ESP32, sensors, servos & motor drivers, CAD · **Languages:** C++, Java, TypeScript, Go, Swift · **Web:** React, Next.js, Node.js, PostgreSQL, MySQL
 
----
+## Contact
 
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="https://t.me/teshabayevv">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:teshabayevmakhkambek@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  
-  ### 💭
-  
-  **Vision over Velocity**
-  
-  ---
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Makhkambek&color=blueviolet&style=for-the-badge&base=180)
-  
-
-</div>
+[Telegram](https://t.me/teshabayevv) · [Email](mailto:teshabayevmakhkambek@gmail.com)
